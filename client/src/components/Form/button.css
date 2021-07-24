@@ -1,0 +1,33 @@
+.collaps .toggle {
+     background: #0084ff;
+     border: unset;
+     cursor: pointer;
+     font: unset;
+     padding: 0.3rem;
+     border-radius: 5px;
+     color: #fff;
+     margin-bottom: 0.5rem;
+     display: 'flex';
+     justify-content:center;
+     width: 35vw;
+
+     margin-left: 20rem;
+     margin-right: 20rem;
+
+
+}
+
+ .content{
+   
+   padding: 0.5rem; 
+   border-radius: 5px;
+   margin-top: 0rem;
+   justify-content:center;
+   display: 'flex';
+   height: 5;
+   
+   margin-left: 2rem;
+
+
+
+}
